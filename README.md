@@ -13,3 +13,5 @@ I will upload more useful material to this repo. I would suggest to start your m
 Papers for Image Classification:
 AlexNet:http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf
 GoogleNet:http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf
+
+Tutorial for fune-tuning http://caffe.berkeleyvision.org/gathered/examples/finetune_flickr_style.html
